@@ -69,8 +69,8 @@ Version History
 .. |Status| image:: https://travis-ci.org/gmr/rabbitstew.svg?branch=master
    :target: https://travis-ci.org/gmr/rabbitstew
 
-.. |Downloads| image:: https://pypip.in/d/rabbitstew/badge.svg?
+.. |Downloads| image:: https://img.shields.io/pypi/dm/rabbitstew.svg
    :target: https://pypi.python.org/pypi/rabbitstew
 
-.. |License| image:: https://pypip.in/license/rabbitstew/badge.svg?
+.. |License| image:: https://img.shields.io/pypi/l/rabbitstew.svg
    :target: https://rabbitstew.readthedocs.org
